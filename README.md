@@ -1,6 +1,6 @@
 A kanban board application utilizing React drag-and-drop. 
 
-![](off_white_gif.gif)![](off_white_landing_2.png)
+![](kanban.png)
 
 ## Technologies
 * JavaScript
